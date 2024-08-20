@@ -12,7 +12,10 @@ export default function Page() {
         <h1 className="ml-4 text-3xl font-bold text-gray-800">
           Welcome to the New Project
         </h1>
-      </div> {/* <-- Corrected closing tag */}
+       
+        
+      
+      </div>
     </main>
   );
 }

@@ -14,7 +14,7 @@ export default function Page() {
         </h1>
        
         
-      />
+      
       </div>
     </main>
   );
